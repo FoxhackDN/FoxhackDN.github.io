@@ -1,0 +1,52 @@
+keio2jd
+Keiou Yuugekitai - Okiraku Tamatebako (Japan, demo)
+Redump source: http://redump.org/disc/80931/
+Disc did not exist in MAME.
+Added in 0.277
+
+gingaedd
+Ginga Eiyuu Densetsu (Japan, demo)
+Redump source: http://redump.org/disc/121496/
+Disc did not exist in MAME.
+Added in 0.277
+
+rbffa
+Real Bout Garou Densetsu (Japan, Sample)
+Redump source: http://redump.org/disc/85754/
+Nearly identical to final retail; version 1.000 in header.
+Disc did not exist in MAME.
+Added in 0.277
+
+vfportj
+Virtua Fighter CG Portrait Collection (Japan)
+Redump source: http://redump.org/disc/41189/
+Disc did not exist in MAME.
+Added in 0.277
+
+vf2k
+Virtua Fighter 2 (Korea)
+Redump source: http://redump.org/disc/88148/
+Requires Korean bios to boot. Game is extremely glitchy and unstable.
+Disc did not exist in MAME.
+Added in 0.277
+
+vfremixk
+Virtua Fighter Remix (Korea)
+Redump source: http://redump.org/disc/88149/
+Requires Korean bios to boot. Game is extremely glitchy and unstable.
+Disc did not exist in MAME.
+Added in 0.277
+
+darksavjd1
+Dark Savior (Japan, Taikenban 19960409)
+Redump source: http://redump.org/disc/62432/
+Date taken from Saturn header. Game will hang after a few screens of story.
+Disc did not exist in MAME.
+Added in 0.277
+
+darksavjd2
+Dark Savior (Japan, Taikenban 19960205)
+Redump source: http://redump.org/disc/111074/
+Date taken from Saturn header. Game will hang after a few screens of story.
+Disc did not exist in MAME.
+Added in 0.277
