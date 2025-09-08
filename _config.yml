@@ -1,5 +1,5 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Foxhack's MAME software list QA site thing
-description: My personal notes on the software list items I've added and / or tested.
+title: Foxhack's Preservation Note Dump Site
+description: Public notes or lists of hatever preservation related projects I got going.
