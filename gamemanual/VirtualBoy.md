@@ -4,7 +4,7 @@
 Released in the US as Jack Bros.
 Posted on 2024-07-15
 
-https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E2%80%9995" target="_blank">Virtual Pro Yakyuu</a>『ジャック・ブラザースの迷路でヒーホー！』 (1995, Kemco)  
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E2%80%9995" target="_blank">Virtual Pro Yakyuu</a>『ジャック・ブラザースの迷路でヒーホー！』 (1995, Kemco)  
 Released in the US as Virtual League Baseball.  
 Posted on 2024-04-05
 
