@@ -1,9 +1,9 @@
 # Virtual Boy manuals
 
-[Jack Bros.](https://gamemanual.midnightmeattrain.com/entry/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E3%81%A7%E3%83%92%E3%83%BC%E3%83%9B%E3%83%BC%EF%BC%81) (Jack Bros. no Meirô de Hiihoo!)『ジャック・ブラザースの迷路でヒーホー！』(1995, Atlus)  
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E3%81%A7%E3%83%92%E3%83%BC%E3%83%9B%E3%83%BC%EF%BC%81" target="_blank">Jack Bros.</a> (Jack Bros. no Meirô de Hiihoo!)『ジャック・ブラザースの迷路でヒーホー！』(1995, Atlus)  
 Posted on 2024-07-15
 
-<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E2%80%9995" target="_blank">Virtual Pro Yakyuu</a>『ジャック・ブラザースの迷路でヒーホー！』 (1995, Kemco)  
+https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E2%80%9995" target="_blank">Virtual Pro Yakyuu</a>『ジャック・ブラザースの迷路でヒーホー！』 (1995, Kemco)  
 Posted on 2024-04-05
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5" target="_blank">Space Squash</a>『スペーススカッシュ』 (1995, Coconuts Japan Entertainment)  
