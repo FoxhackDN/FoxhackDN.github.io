@@ -14,7 +14,7 @@ Posted on 2023-05-18
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0" target="_blank">Virtual Fishing</a>『バーチャルフィッシング』 (1995, Pack-In Video)  
 Posted on 2023-03-21
 
-<a href="https://gamemanual.midnightmeattrain.com/entry/T%26E%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B4%E3%83%AB%E3%83%95" target=="_blank">T&E Virtual Golf</a>『T&Eヴァーチャルゴルフ』 (1995, T&E Soft)  
+<a href="https://gamemanual.midnightmeattrain.com/entry/T%26E%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B4%E3%83%AB%E3%83%95" target="_blank">T&E Virtual Golf</a>『T&Eヴァーチャルゴルフ』 (1995, T&E Soft)  
 Released in the US as Golf.  
 Posted on 2023-03-09
 
