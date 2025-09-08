@@ -1,37 +1,30 @@
 # Virtual Boy manuals
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%B9%E3%81%AE%E8%BF%B7%E8%B7%AF%E3%81%A7%E3%83%92%E3%83%BC%E3%83%9B%E3%83%BC%EF%BC%81" target="_blank">Jack Bros. no Meirô de Hiihoo!</a>『ジャック・ブラザースの迷路でヒーホー！』(1995, Atlus)  
-Released in the US as Jack Bros.
-Posted on 2024-07-15
+Released in the US as Jack Bros. [2024-07-15]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E2%80%9995" target="_blank">Virtual Pro Yakyuu</a>『ジャック・ブラザースの迷路でヒーホー！』 (1995, Kemco)  
-Released in the US as Virtual League Baseball.  
-Posted on 2024-04-05
+Released in the US as Virtual League Baseball. [2024-04-05]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5" target="_blank">Space Squash</a>『スペーススカッシュ』 (1995, Coconuts Japan Entertainment)  
-Posted on 2023-05-18
+[2023-05-18]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0" target="_blank">Virtual Fishing</a>『バーチャルフィッシング』 (1995, Pack-In Video)  
-Posted on 2023-03-21
+[2023-03-21]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/T%26E%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B4%E3%83%AB%E3%83%95" target="_blank">T&E Virtual Golf</a>『T&Eヴァーチャルゴルフ』 (1995, T&E Soft)  
-Released in the US as Golf.  
-Posted on 2023-03-09
+Released in the US as Golf. [2023-03-09]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/SD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3_%E3%82%A6%E3%82%A9%E3%83%BC" target="_blank">SD Gundam: Dimension War</a>『SDガンダム ディメンション ウォー』 (1995, Bandai)  
-Posted on 2023-02-25
+[2023-02-25]
 
-2023-02-22
-『スペースインベーダー バーチャルコレクション』1995年／バーチャルボーイ
-バーチャルボーイ さ行
 
-『スペースインベーダー バーチャルコレクション』 1995年発売／バーチャルボーイ／シューティング／株式会社タイトー 通常の｢スペースインベーダー｣に加え、奥行きのある画面のバーチャルモードと、スコアアタック・タイムアタックを遊ぶことができる。また…
-はてなブックマーク - 『スペースインベーダー バーチャルコレクション』1995年／バーチャルボーイ
-2023-02-14
-『バーティカルフォース』1995年／バーチャルボーイ
-バーチャルボーイ は行
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC_%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" target="_blank">Space Invaders Virtual Collection</a>『スペースインベーダー バーチャルコレクション』 (1995, Taito)  
+[2023-02-22]
 
-『バーティカルフォース』 1995年発売／バーチャルボーイ／シューティング／株式会社ハドソンソフト ハドソン謹製の縦スクロールシューティング。自機を手前側(上段)と奥側(下段)に軸移動することができる｢ソリッドラインシステム｣が特徴で、異なる軸からの…
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9" target="_blank">Vertical Force</a>『バーティカルフォース』 (1995, Hudson Soft)  
+[2023-02-14]
+
 はてなブックマーク - 『バーティカルフォース』1995年／バーチャルボーイ
 2023-02-10
 『バーチャルボウリング』1995年／バーチャルボーイ
