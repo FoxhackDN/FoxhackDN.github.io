@@ -18,45 +18,28 @@ Released in the US as Golf. [2023-03-09]
 <a href="https://gamemanual.midnightmeattrain.com/entry/SD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3_%E3%82%A6%E3%82%A9%E3%83%BC" target="_blank">SD Gundam: Dimension War</a>『SDガンダム ディメンション ウォー』 (1995, Bandai)  
 [2023-02-25]
 
-
-<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC_%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" target="_blank">Space Invaders Virtual Collection</a>『スペースインベーダー バーチャルコレクション』 (1995, Taito)  
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BC_%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3" target="_blank">Space Invaders: Virtual Collection</a>『スペースインベーダー バーチャルコレクション』 (1995, Taito)  
 [2023-02-22]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9" target="_blank">Vertical Force</a>『バーティカルフォース』 (1995, Hudson Soft)  
 [2023-02-14]
 
-はてなブックマーク - 『バーティカルフォース』1995年／バーチャルボーイ
-2023-02-10
-『バーチャルボウリング』1995年／バーチャルボーイ
-バーチャルボーイ は行
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%9C%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%B0" target="_blank">Virtual Bowling</a>『バーチャルボウリング』 (1995, Athena)  
+[2023-02-10]
 
-『バーチャルボウリング』 1995年発売／バーチャルボーイ／スポーツ／株式会社アテナ 『SDガンダム ディメンション ウォー』と並ぶ、バーチャルボーイ最後のソフト。現在は超高額で取引されており、入手は不可能に近いレベル。 3D視を存分に活かしており、ボ…
-はてなブックマーク - 『バーチャルボウリング』1995年／バーチャルボーイ
-2023-02-05
-『テレロボクサー』1995年／バーチャルボーイ
-バーチャルボーイ た行
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%86%E3%83%AC%E3%83%AD%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC" target="_blank">Teleroboxer</a>『テレロボクサー』 (1995, Nintendo)  
+[2023-02-05]
 
-『テレロボクサー』 1995年発売／バーチャルボーイ／スポーツ／任天堂株式会社 ロボットを遠隔操作して戦う3Dボクシング、という設定的にもバーチャルな作品。主人公機・ハリーを操作して8人のライバルボクサーたちと戦っていく。通信対戦に対応する予定もあ…
-はてなブックマーク - 『テレロボクサー』1995年／バーチャルボーイ
-2023-02-04
-『とびだせ！ ぱにボン』1995年／バーチャルボーイ
-バーチャルボーイ た行
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%A8%E3%81%B3%E3%81%A0%E3%81%9B%EF%BC%81_%E3%81%B1%E3%81%AB%E3%83%9C%E3%83%B3" target="_blank">Tobidase! Panic Bomber</a> (Tobidase! Panibon!)『とびだせ！ ぱにボン』 (1995, Hudson Soft)  
+Released in the USA as Panic Bomber. [2023-02-04]
 
-『とびだせ！ ぱにボン』 1995年発売／バーチャルボーイ／パズル／株式会社ハドソンソフト バーチャルボーイローンチソフトの1本で、『ボンバーマン ぱにっくボンバー』の移植作。L字型に連なって落ちてくるコマを、タテ・ヨコ・ナナメに同じものを3つずつ並…
-はてなブックマーク - 『とびだせ！ ぱにボン』1995年／バーチャルボーイ
-2023-02-03
-『インスマウスの館』1995年／バーチャルボーイ
-バーチャルボーイ あ行
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E9%A4%A8" target="_blank">Insmouse no Yakata</a>『インスマウスの館』(1995, I'Max)  
+[2023-02-03]
 
-『インスマウスの館』 1995年発売／バーチャルボーイ／シューティング／株式会社アイマックス 化物どもがうろつく迷宮のような館を探索するFPSで、基本システムは『ZOOM』を彷彿とさせる。インスマウスとは伝説的ホラー作家・ラヴクラフトの著作に登場する港…
-はてなブックマーク - 『インスマウスの館』1995年／バーチャルボーイ
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB" target="_blank">Galactic Pinball</a>『ギャラクティックピンボール』(1995, Nintendo)  
 2023-02-02
-『ギャラクティックピンボール』1995年／バーチャルボーイ
-バーチャルボーイ か行
 
-『ギャラクティックピンボール』 1995年発売／バーチャルボーイ／ピンボール／任天堂株式会社 バーチャルボーイ本体と同時発売されたソフトの1本。ビデオゲームならではのギミックを盛り込んだピンボールで、立体視という特徴をもっともシンプルに、わかりや…
-はてなブックマーク - 『ギャラクティックピンボール』1995年／バーチャルボーイ
-2023-02-01
-『バーチャルボーイ ワリオランド アワゾンの秘宝』1995年／バーチャルボーイ
-バーチャルボーイ は行 
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%9C%E3%83%BC%E3%82%A4_%E3%83%AF%E3%83%AA%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%89" target="_blank">Virtual Boy Wario Land</a> (Virtual Boy Wario Land Awazon No Hihou)『バーチャルボーイ ワリオランド アワゾンの秘宝』 (1995, Nintendo)  
+[2023-02-01]
+
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.

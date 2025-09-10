@@ -2,4 +2,4 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Foxhack's Preservation Note Dump Site
-description: Public notes or lists of hatever preservation related projects I got going.
+description: Public notes or lists of whatever preservation related projects I got going.
