@@ -6,8 +6,46 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%98%E3%83%B4%E3%83%B3_%EF%BD%9Ememory_of_those_days%EF%BD%9E" target="_blank">Another Heaven ~memory of those days~</a>『海釣りに行こう！』(1999, Omega Micott)  
 [2025-01-03]
 
-<a href="https://gamemanual.midnightmeattrain.com/entry/Engacho%EF%BC%81_for_%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3">Engacho! for Wonderswan</a> 『Engacho！ for ワンダースワン』 (1999, Nihon Application)  
+<a href="https://gamemanual.midnightmeattrain.com/entry/Engacho%EF%BC%81_for_%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3">Engacho! for Wonderswan</a>『Engacho！ for ワンダースワン』 (1999, Nihon Application)  
 [2024-10-01]
+
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E8%AA%9E%E6%A5%BD%E7%8E%8BTANGO%EF%BC%81WS" target="_blank">Gorakuou Tango! WS</a>『語楽王TANGO！』 (1999, Mebius)  
+[2025-08-04]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BCWS" target="_blank">Crazy Climber WS</a>『クレイジー・クライマー』 (1999, Nichibutsu / Nihon Bussan)  
+[2025-07-21]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/GUNPEY_EX" target="_blank">Gunpey EX</a>『GUNPEY(グンペイ) EX』 (2000, Bandai)  
+[2024-12-15]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E9%A2%A8%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%A2_%E3%83%A0%E3%83%BC%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0" target="_blank">Kaze no Klonoa Moonlight Museum</a>『風のクロノア ムーンライトミュージアム』 (1999, Bandai)  
+[2024-10-20]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E5%AD%90%E8%82%B2%E3%81%A6%E3%82%AF%E3%82%A4%E3%82%BA%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%83%9E%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB" target="_blank">Kosodate Quiz Doko Demo My Angel</a>『子育てクイズどこでもマイエンジェル』 (1999, Bandai)  
+[2024-09-28]
+
+2024-09-23
+『カードキャプターさくら さくらとふしぎなクロウカード』1999年／ワンダースワン
+ワンダースワン か行
+
+『カードキャプターさくら さくらとふしぎなクロウカード』 1999年発売／ワンダースワン／RPG／株式会社バンダイ クロウカード編の物語をラストまで追体験できるRPG。さくらの育成要素に加えてもちろんカード収集要素もあるし、原作とは異なる展開のマルチシ…
+はてなブックマーク - 『カードキャプターさくら さくらとふしぎなクロウカード』1999年／ワンダースワン
+2024-08-27
+『元祖じゃじゃ丸くん』1999年／ワンダースワン
+ワンダースワン か行
+
+『元祖じゃじゃ丸くん』 1999年発売／ワンダースワン／アクション／株式会社ジャレコ 『忍者じゃじゃ丸くん』のリメイク移植。ステージは21から25に増え、ワンダースワンらしく縦スクロールのステージも追加。イベントデモもあり、さくら姫のみ妙に力の入っ…
+はてなブックマーク - 『元祖じゃじゃ丸くん』1999年／ワンダースワン
+2024-08-13
+『格闘料理伝説ビストロレシピ ワンダーバトル編』1999年／ワンダースワン
+ワンダースワン か行
+
+『格闘料理伝説ビストロレシピ ワンダーバトル編』 1999年発売／ワンダースワン／RPG／株式会社バンプレスト 漫画やアニメでメディアミックス展開された『ポケモン』ライクRPGのシリーズ第1作。とは言え、後に発売されたゲームボーイカラー版2作とは発売時期…
+はてなブックマーク - 『格闘料理伝説ビストロレシピ ワンダーバトル編』1999年／ワンダースワン
+2024-08-01
+『GUNPEY』1999年／ワンダースワン
+
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%8A%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFWS" target="_blank">O-Chan no Oekaki Logic</a>『おーちゃんのお絵かきロジック』(2000, Sunsoft)  
 [2024-08-07]
