@@ -15,11 +15,11 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/Engacho%EF%BC%81_for_%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3">Engacho! for Wonderswan</a>『Engacho！ for ワンダースワン』 (1999, Nihon Application)  
 [2024-10-01]
 
-<a href="https://gamemanual.midnightmeattrain.com/entry/%E8%AA%9E%E6%A5%BD%E7%8E%8BTANGO%EF%BC%81WS" target="_blank">Gorakuou Tango! WS</a>『語楽王TANGO！』 (1999, Mebius)  
-[2025-08-04]
-
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E5%85%83%E7%A5%96%E3%81%98%E3%82%83%E3%81%98%E3%82%83%E4%B8%B8%E3%81%8F%E3%82%93" target="_blank">Ganso JaJaMaru-kun</a>『元祖じゃじゃ丸くん』 (1999, Jaleco)  
 [2024-08-27]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E8%AA%9E%E6%A5%BD%E7%8E%8BTANGO%EF%BC%81WS" target="_blank">Gorakuou Tango! WS</a>『語楽王TANGO！』 (1999, Mebius)  
+[2025-08-04]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/GUNPEY" target="_blank">Gunpey</a>『GUNPEY』(1999, Bandai)  
 [2024-08-01]
@@ -55,12 +55,12 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BCWS" target="_blank">Space Invaders</a>『スペースインベーダー』 (1999, Sunsoft)  
 [2024-08-05]
 
-<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6COMPACT" target="_blank">Super Robot Taisen Compact</a>『スーパーロボット大戦COMPACT』  (1999, Bandai)
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6COMPACT" target="_blank">Super Robot Taisen Compact</a>『スーパーロボット大戦COMPACT』  (1999, Bandai)  
 [2024-08-17]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E6%B5%B7%E9%87%A3%E3%82%8A%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%EF%BC%81" target="_blank">Umitsuri ni ikou!</a>『海釣りに行こう！』(2000, Coconuts Japan)  
 [2025-01-03]
 
-A = 5, KA = 9
+A = 5, KA = 9, SA = 6
 
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
