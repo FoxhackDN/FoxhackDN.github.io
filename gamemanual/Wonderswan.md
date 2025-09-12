@@ -52,6 +52,9 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E5%8D%92%E6%A5%AD_for_WonderSwan" target="_blank">Sotsugyo for Wonderswan</a>『卒業 for WonderSwan』(1999, Bandai)  
 [2025-05-17]
 
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%99%E3%83%BC%E3%83%80%E3%83%BCWS" target="_blank">Space Invaders</a>『スペースインベーダー』 (1999, Sunsoft)  
+[2024-08-05]
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6COMPACT" target="_blank">Super Robot Taisen Compact</a>『スーパーロボット大戦COMPACT』  (1999, Bandai)
 [2024-08-17]
 
