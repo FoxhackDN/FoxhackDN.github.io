@@ -36,10 +36,28 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E5%AD%90%E8%82%B2%E3%81%A6%E3%82%AF%E3%82%A4%E3%82%BA%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%83%9E%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB" target="_blank">Kosodate Quiz Doko Demo My Angel</a>『子育てクイズどこでもマイエンジェル』 (1999, Bandai)  
 [2024-09-28]
 
+<a href="https://gamemanual.midnightmeattrain.com/entry/NEON_GENESIS_EVANGELION_%E3%82%B7%E3%83%88%E8%82%B2%E6%88%90" target="_blank">Neon Genesis Evangelion: Shito Ikusei</a>『NEON GENESIS EVANGELION(新世紀エヴァンゲリオン) シト育成』 (
+1999, Bandai)  
+[2025-03-23]
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%8A%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFWS" target="_blank">O-Chan no Oekaki Logic</a>『おーちゃんのお絵かきロジック』(2000, Sunsoft)  
 [2024-08-07]
 
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E4%B8%8A%E6%B5%B7PocketWS" target="_blank">Shanghai Pocket</a>『上海Pocket』(1999, Sunsoft)  
+[2024-08-21]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%9D%E3%82%8D%E3%81%B0%E3%82%93%E3%81%90">Soroban Gu</a>『そろばんぐ』(2000, Kaga Tech)  
+[2024-11-25]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E5%8D%92%E6%A5%AD_for_WonderSwan" target="_blank">Sotsugyo for Wonderswan</a>『卒業 for WonderSwan』(1999, Bandai)  
+[2025-05-17]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6COMPACT" target="_blank">Super Robot Taisen Compact</a>『スーパーロボット大戦COMPACT』  (1999, Bandai)
+[2024-08-17]
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E6%B5%B7%E9%87%A3%E3%82%8A%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%EF%BC%81" target="_blank">Umitsuri ni ikou!</a>『海釣りに行こう！』(2000, Coconuts Japan)  
 [2025-01-03]
+
+A = 5, KA = 9
 
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
