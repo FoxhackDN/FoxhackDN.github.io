@@ -9,8 +9,20 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89_%E3%81%95%E3%81%8F%E3%82%89%E3%81%A8%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AA%E3%82%AF%E3%83%AD%E3%82%A6" target="_blank">Cardcaptor Sakura: Sakura to Fushigi na Clow Card</a>『カードキャプターさくら さくらとふしぎなクロウカード』 (1999, Bandai)  
 [2024-09-23]
 
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3_for%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3" target="_blank">Chocobo No Fushigi na Dungeon for Wonderswan</a>『チョコボの不思議なダンジョン forワンダースワン』 (1999, Bandai)  
+[2024-08-19]
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BCWS" target="_blank">Crazy Climber WS</a>『クレイジー・クライマー』 (1999, Nichibutsu / Nihon Bussan)  
 [2025-07-21]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E9%9B%BB%E8%BB%8A%E3%81%A7GO%21WS" target="_blank">Densha de Go!</a>『電車でGO!』(1999, Taito)  
+[2024-10-30]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_Ver.WonderSwan" target="_blank">Digital Monster Ver.Wonderswan</a>『デジタルモンスター Ver.WonderSwan』(1999, Bandai)  
+[2025-01-01]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC target="_blank">Dokodemo Hamster</a> 『どこでもハムスター』(2000, Interbec / Bec Co. Ltd)  
+[2025-09-01]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/Engacho%EF%BC%81_for_%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3">Engacho! for Wonderswan</a>『Engacho！ for ワンダースワン』 (1999, Nihon Application)  
 [2024-10-01]
@@ -46,6 +58,9 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E4%B8%8A%E6%B5%B7PocketWS" target="_blank">Shanghai Pocket</a>『上海Pocket』(1999, Sunsoft)  
 [2024-08-21]
 
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E6%96%B0%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0_%E9%97%98%E9%AD%82%E7%83%88%E4%BC%9D" target="_blank">Shin Nihon Pro Wrestling: Tōkon Retsuden</a> 『新日本プロレスリング 闘魂烈伝』(1999, Tomy)  
+[2025-02-05]
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%9D%E3%82%8D%E3%81%B0%E3%82%93%E3%81%90">Soroban Gu</a>『そろばんぐ』(2000, Kaga Tech)  
 [2024-11-25]
 
@@ -58,9 +73,21 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6COMPACT" target="_blank">Super Robot Taisen Compact</a>『スーパーロボット大戦COMPACT』  (1999, Bandai)  
 [2024-08-17]
 
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E9%89%84%E6%8B%B3%E3%82%AB%E3%83%BC%E3%83%89%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8" target="_blank">Tekken Card Challenge</a>『鉄拳カードチャレンジ』(1999, Bandai)  
+[2025-06-07]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%86%E3%83%A9%E3%83%BC%E3%82%BA" target="_blank">Terrors</a>『テラーズ』(1999, Bandai)  
+[2025-02-17]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%86%E3%83%A9%E3%83%BC%E3%82%BA2" target="_blank">Terrors 2</a>『テラーズ2』(2000, Bandai)  
+[2025-03-06]
+
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E9%89%84%E4%BA%BA28%E5%8F%B7" target="_blank">Tetsujin 28-Go</a>『鉄人28号』(1999, Megahouse)  
+[2024-08-23]
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E6%B5%B7%E9%87%A3%E3%82%8A%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%EF%BC%81" target="_blank">Umitsuri ni ikou!</a>『海釣りに行こう！』(2000, Coconuts Japan)  
 [2025-01-03]
 
-A = 5, KA = 9, SA = 6
+A = 5, KA = 9, SA = 6, TA = 9
 
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
