@@ -1,3 +1,8 @@
+Notes:
+ALL the Darkwater scene disc dumps should be considered suspect. So anything with a DW0 prefix in the file name.
+
+Discs added:
+
 keio2jd
 Keiou Yuugekitai - Okiraku Tamatebako (Japan, demo)
 Redump source: http://redump.org/disc/80931/
@@ -50,3 +55,149 @@ Redump source: http://redump.org/disc/111074/
 Date taken from Saturn header. Game will hang after a few screens of story.
 Disc did not exist in MAME.
 Added in 0.277
+
+kof97a
+The King of Fighters '97 (Japan, Sample Hibaihin)
+Redump source: http://redump.org/disc/122381/
+Slightly earlier build of the full game given as a preview. Seems to be glitchy sometimes.
+Disc did not exist in MAME.
+Added in 0.277
+
+satsup1
+Saturn Super Vol. 1 (Japan) (8M).chd - http://redump.org/disc/80139/
+satsup1a
+Saturn Super Vol. 1 (Japan) (7M).chd - http://redump.org/disc/80138/
+satsup1b
+Saturn Super Vol. 1 (Japan) (6M).chd - http://redump.org/disc/41098/
+Newest disc run (presumed to be 8M, highest number on ringcode) is parent.
+
+satsup2
+Saturn Super Vol. 2 (Japan) (6M).chd - http://redump.org/disc/44776/
+satsup2a
+Saturn Super Vol. 2 (Japan) (2M).chd - http://redump.org/disc/62424/
+satsup2b
+Saturn Super Vol. 2 (Japan) (1M).chd - http://redump.org/disc/41099/
+
+---
+
+Pending discs
+
+
+
+---
+
+Discs that might be verified:
+
+astalj
+kisuishou densetsu astal (japan) (4m).chd
+Matches up with http://redump.org/disc/3254/
+
+
+Possible bad discs:
+
+darksaviorusa.chd
+Track 1 matches http://redump.org/disc/20698/
+Track 2 seems to be smaller by 352800 bytes?
+
+darksavja (Darkwater dump)
+Track 1 matches confirmed JP Redump entry: http://redump.org/disc/5045/
+Track 2 is different. Might be a bad dump.
+
+darksavjb (linlhutz dump)
+Track 1 matches confirmed JP Redump entry: http://redump.org/disc/5045/
+Track 2 is different.
+
+darksavjc (hacked dump)
+Disc has an English title screen, and English in CDDA track. Build date on header matches US entry, might be a hacked or bad dump of US region.
+darksaviorjapan.chd
+
+darkseed (Darkwater dump)
+Track 1 matches redump: http://redump.org/disc/26364/
+Track 2 is an underdump. Dump must be replaced.
+
+darksed2 (Darkwater dump)
+Original disc has a mastering error that affects the last sectors of the first data track. Darkwater dump matches redump *except* for the very
+end of it. This does not affect the game data, but current dump is not a clean one. Track 1 data in both darkwater and linlhutz dumps are the same.
+Track 2 is an underdump by 300k.
+
+darksed2a (linlhutz dump)
+Original disc has a mastering error that affects the last sectors of the first data track. Darkwater dump matches redump *except* for the very
+end of it. This does not affect the game data, but current dump is not a clean one. Track 1 data in both darkwater and linlhutz dumps are the same.
+Track 2 is an underdump by 300k and has different data.
+
+asuka120 (Darkwater dump)
+Track 1 matches Redump, audio track data missing.
+
+anearth (Darkwater)
+aneartha (linlhutz)
+Track 1 good, audio tracks missing sectors. Delete aneartha and replace anearth with Redump dump.
+
+astal "USA Sega Saturn List", Unknown origin.
+Track 1 good, track 2 missing sectors. Bad and needs to be replaced.
+
+astalja (Darkwater)
+Track 1 has some differences, and 350,448 bytes from the audio track were appended to track 1. Bad. Replace with proper Redump version.
+
+baldylnd (Darkwater)
+Track 1 bad, audio tracks missing sectors.
+
+bigichi (Darkwater)
+Data track is strangely larger than normal, audio tracks bad
+bigichia (linlhutz)
+Data track matches http://redump.org/disc/42397/ , but audio tracks bad
+
+avg (linlhutz)
+
+chaosconj (Darkwater)
+chaosconja (linlhutz)
+http://redump.org/disc/35251/
+Good track 1, bad audio on both
+
+darksav (Unknown origin)
+Good track 1, bad track 2
+
+bombwars (Darkwater)
+http://redump.org/disc/26473/
+Good track 1, bad track 2
+
+actuasoc (unknown)
+http://redump.org/disc/16846/
+Good track 1, bad track 2
+
+actuasocj (linlhutz)
+http://redump.org/disc/23671/
+Good track 1, bad track 2
+
+vrsoccer (Darkwater)
+http://redump.org/disc/17609/
+Good track 1, bad track 2
+
+
+
+---
+
+Suspect dumps due to weirdness posted on Redump
+chaoscon (Unknown)
+Supposed to be http://redump.org/disc/4999/
+" The pre-last sector is half-scrambled. The last sector is reverted/scrambled."
+
+saturncleanup-2025-05
+
+New dumps:
+AI Shougi 2 (Japan) [redump.org]
+
+Replaced dumps:
+Advanced V.G. (Japan) [redump.org]
+AnEarth Fantasy Stories: The First Volume (Japan) [redump.org]
+Asuka 120% Limited: Burning Fest Limited (Japan) [redump.org]
+Baldy Land (Japan) [redump.org]
+Bomberman Wars (Japan) [redump.org]
+Dark Savior (Europe) [redump.org]
+Dark Savior (USA) [redump.org]
+Dark Seed (Japan) [redump.org]
+Dark Seed 2 (Japan) [redump.org]
+
+Removed dumps:
+- Removed aishogia, aneartha, darksavja, darksavjb, darksavjc sets
+-- aneartha, darksavja, darksavjb: both data tracks are good, but audio tracks are bad dumps;
+-- darksavjc: Hacked set containing a modified US build of the game

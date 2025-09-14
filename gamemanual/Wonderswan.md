@@ -68,6 +68,19 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E6%B5%B7%E9%87%A3%E3%82%8A%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%EF%BC%81" target="_blank">Umitsuri ni ikou!</a></td><td>『海釣りに行こう！』</td><td>2000</td><td>Coconuts Japan</td><td>2025-01-03</td></tr>
 
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%B7%E3%82%88%E3%81%B7%E3%82%88%E9%80%9AWS" target="_blank">Puyo Puyo 2</a></td><td>『ぷよぷよ通』</td><td>1999</td><td>Bandai</td><td>2025-08-24</td></tr>
+
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/HUNTER%C3%97HUNTER_%E6%84%8F%E6%80%9D%E3%82%92%E7%B6%99%E3%81%90%E8%80%85" target="_blank">Hunter x Hunter: Ishi o Tsugu Mono</a></td><td>『HUNTER×HUNTER 意思を継ぐ者』</td><td>2000</td><td>Bandai</td><td>2025-04-28</td></tr>
+
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E7%88%86%E8%B5%B0%E3%83%87%E3%82%B3%E3%83%88%E3%83%A9%E4%BC%9D%E8%AA%AC_for_WonderSwan" target="_blank">Bakusou Dekotora Densetsu for WonderSwan</a></td><td>『爆走デコトラ伝説 for WonderSwan』</td><td>1999</td><td>Kaga Tech</td><td>2024-09-05</td></tr>
+
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/beatmania_for_WonderSwan" target="_blank">beatmania for WonderSwan</a></td><td>『beatmania for WonderSwan』</td><td>1999</td><td>Konami</td><td>2024-08-31</td></tr>
+
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%8F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%84" target="_blank">Harobots</a></td><td>『ハロボッツ』</td><td>1999</td><td>Sunrise Interactive</td><td>2024-08-03</td></tr>
+
+
+<tr><td><a href="" target="_blank">Title</a></td><td>『JP』</td><td>Year</td><td>Pub</td><td>Date</td></tr>
+
 </table>
 
 A = 5, KA = 9, SA = 6, TA = 9, Na = 2
