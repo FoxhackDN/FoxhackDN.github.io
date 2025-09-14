@@ -1,4 +1,10 @@
+<script src="sorttable.js"></script>
+
 # Wonderswan manuals
+
+<table class="sortable">
+<tr><td>Game</td><td>Japanese Spelling</td><td>Year</td><td>Publisher</td><td>Date</td></tr>
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89" target="_blank">Anchor Field</a></td><td>『ギャラクティックピンボール』</td><td>(1999</td><td>Sammy</td><td>2025-04-02</td></tr></table>
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89" target="_blank">Anchor Field</a>『ギャラクティックピンボール』(1999, Sammy)  
 [2025-04-02]
