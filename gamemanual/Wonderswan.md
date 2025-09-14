@@ -1,5 +1,118 @@
 # Wonderswan manuals
 
+
+<div class="table-wrap">
+  <table class="sortable">
+    <caption>
+      Students currently enrolled in WAI-ARIA 101
+      <span class="sr-only">
+        (column headers with buttons are sortable).
+      </span>
+    </caption>
+    <thead>
+      <tr>
+        <th>
+          <button>
+            First Name
+            <span aria-hidden="true"></span>
+          </button>
+        </th>
+        <th aria-sort="ascending">
+          <button>
+            Last Name
+            <span aria-hidden="true"></span>
+          </button>
+        </th>
+        <th>
+          <button>
+            Company
+            <span aria-hidden="true"></span>
+          </button>
+        </th>
+        <th class="no-sort">
+          Address
+        </th>
+        <th class="num">
+          <button>
+            Favorite Number
+            <span aria-hidden="true"></span>
+          </button>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Fred
+        </td>
+        <td>
+          Jackson
+        </td>
+        <td>
+          Canary, Inc.
+        </td>
+        <td>
+          123 Broad St.
+        </td>
+        <td class="num">
+          56
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Sara
+        </td>
+        <td>
+          James
+        </td>
+        <td>
+          Cardinal, Inc.
+        </td>
+        <td>
+          457 First St.
+        </td>
+        <td class="num">
+          7
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Ralph
+        </td>
+        <td>
+          Jefferson
+        </td>
+        <td>
+          Robin, Inc.
+        </td>
+        <td>
+          456 Main St.
+        </td>
+        <td class="num">
+          513
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Nancy
+        </td>
+        <td>
+          Jensen
+        </td>
+        <td>
+          Eagle, Inc.
+        </td>
+        <td>
+          2203 Logan Dr.
+        </td>
+        <td class="num">
+          3.5
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89" target="_blank">Anchor Field</a>『ギャラクティックピンボール』(1999, Sammy)  
 [2025-04-02]
 
