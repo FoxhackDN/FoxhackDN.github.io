@@ -3,13 +3,7 @@
 # Wonderswan manuals
 
 <table class="sortable">
-<tr><td>Game</td><td>Japanese Spelling</td><td>Year</td><td>Publisher</td><td>Date</td></tr>
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89" target="_blank">Anchor Field</a></td><td>『ギャラクティックピンボール』</td><td>1999</td><td>Sammy</td><td>2025-04-02</td></tr>
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%98%E3%83%B4%E3%83%B3_%EF%BD%9Ememory_of_those_days%EF%BD%9E" target="_blank">Another Heaven ~memory of those days~</a></td><td>『海釣りに行こう！』</td><td>1999</td><td>Omega Micott</td><td>2025-01-03</td></tr>
-
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89_%E3%81%95%E3%81%8F%E3%82%89%E3%81%A8%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AA%E3%82%AF%E3%83%AD%E3%82%A6" target="_blank">Cardcaptor Sakura: Sakura to Fushigi na Clow Card</a></td><td>『カードキャプターさくら さくらとふしぎなクロウカード』</td><td>1999</td><td>Bandai</td><td>2024-09-23</td></tr>
-
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3_for%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3" target="_blank">Chocobo No Fushigi na Dungeon for Wonderswan</a></td><td>『チョコボの不思議なダンジョン forワンダースワン』</td><td>1999</td><td>Bandai</td><td>2024-08-19</td></tr>
+<tr><td>Game</td><td>Japanese Spelling</td><td>Year</td><td>Publisher</td><td>Date Posted</td></tr>
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89" target="_blank">Anchor Field</a></td><td>『ギャラクティックピンボール』</td><td>1999</td><td>Sammy</td><td>2025-04-02</td></tr>
 
@@ -79,3 +73,5 @@
 A = 5, KA = 9, SA = 6, TA = 9, Na = 2
 
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
+
+<a href="https://www.kryogenix.org/code/browser/sorttable/" target="_blank">sorttable</a> (Javascript table sorting code) by Stuart Langridge.
