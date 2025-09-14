@@ -90,11 +90,11 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E5%A6%96%E7%AC%A6%E9%AD%94%E7%95%8C" target="_blank">Chou Denki Card Battle Yōfu Makai</a> (<a href="#yofumakai">1</a>)</td><td>『妖符魔界』</td><td>1999</td><td>Kappa Games (Kobunsha)</td><td>2024-10-10</td></tr>
 
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%91%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA%E2%98%86%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%EF%BC%81" target="_blank">Rainbow Island: Putty's Party</td><td>『レインボーアイランド パティーズ☆パーティ！』</td><td>2000</td><td>MegaHouse</td><td>2025-06-26</td></tr>
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89_%E3%83%91%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA%E2%98%86%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%EF%BC%81" target="_blank">Rainbow Island: Putty's Party</a></td><td>『レインボーアイランド パティーズ☆パーティ！』</td><td>2000</td><td>MegaHouse</td><td>2025-06-26</td></tr>
 
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/_%E6%9C%AA%E6%9D%A5%E3%81%8B%E3%82%89%E3%81%AE%E6%8C%91%E6%88%A6%E8%80%85" target="_blank">Rockman & Forte Mirai kara no Chōsensha</td><td>『ロックマン＆フォルテ 未来からの挑戦者』</td><td>1999</td><td>Bandai</td><td>2024-08-11</td></tr>
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/_%E6%9C%AA%E6%9D%A5%E3%81%8B%E3%82%89%E3%81%AE%E6%8C%91%E6%88%A6%E8%80%85" target="_blank">Rockman & Forte Mirai kara no Chōsensha</a></td><td>『ロックマン＆フォルテ 未来からの挑戦者』</td><td>1999</td><td>Bandai</td><td>2024-08-11</td></tr>
 
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%AA%E3%83%B3%E3%82%B0%E2%88%9E" target="_blank">Ring Infinity (<a href="#ringu">2</a>)</td><td>『リング∞（インフィニティ）』</td><td>2000</td><td>Kadokawa Shoten</td><td>2024-08-09</td></tr>
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%AA%E3%83%B3%E3%82%B0%E2%88%9E" target="_blank">Ring Infinity</a> (<a href="#ringu">2</a>)</td><td>『リング∞（インフィニティ）』</td><td>2000</td><td>Kadokawa Shoten</td><td>2024-08-09</td></tr>
 
 <tr><td><a href="" target="_blank">Title</a></td><td>『JP』</td><td>Year</td><td>Pub</td><td>Date</td></tr>
 
