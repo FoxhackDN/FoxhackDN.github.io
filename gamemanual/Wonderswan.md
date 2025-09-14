@@ -88,12 +88,15 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E9%AD%94%E7%95%8C%E6%9D%91_for_WonderSwan" target="_blank">Makaimura for Wonderswan</a></td><td>『魔界村 for WonderSwan』</td><td>1999</td><td>Bandai</td><td>2024-08-15</td></tr>
 
+<tr><td><a href="" target="_blank">Chou Denki Card Battle Yōfu Makai</a> (<a href="#yofumakai">1</a>)</td><td>『妖符魔界』</td><td>1999</td><td>Kappa Games (Kobunsha)</td><td>2024-10-10</td></tr>
 
 <tr><td><a href="" target="_blank">Title</a></td><td>『JP』</td><td>Year</td><td>Pub</td><td>Date</td></tr>
 
 </table>
 
-A = 5, KA = 9, SA = 6, TA = 9, Na = 2, Ha = 5, Ma = 5
+(<a name="yofumakai">1</a>): Commonly listed as "Chou Denki Card Battle "Yōfu Makai" Kikuchi Hideyuki" in some websites. JP Wikipedia lists it as "KAPPA GAMES 超伝奇カードバトル「妖符魔界」菊地秀行".
+
+A = 5, KA = 9, SA = 6, TA = 9, Na = 2, Ha = 5, Ma = 5, Ya = 1
 
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
 
