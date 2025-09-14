@@ -17,7 +17,7 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A5" target="_blank">Space Squash</a></td><td>『スペーススカッシュ』</td><td>1995</td><td>Coconuts Japan Entertainment</td><td>2023-05-18</td></tr>
 
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/T%26E%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B4%E3%83%AB%E3%83%95" target="_blank">T&E Virtual Golf</a> (<a href="#golf">2</a>)</td><td>『T&Eヴァーチャルゴルフ』</td><td>1995</td><td>T&E Soft</td><td>2023-03-09</td></tr>
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/T%26E%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%82%B4%E3%83%AB%E3%83%95" target="_blank">T&E Virtual Golf</a> (<a href="#golf">2</a>)</td><td>『T&Eヴァーチャルゴルフ』</td><td>1995</td><td>T&amp;E Soft</td><td>2023-03-09</td></tr>
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%86%E3%83%AC%E3%83%AD%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC" target="_blank">Teleroboxer</a></td><td>『テレロボクサー』</td><td>1995</td><td>Nintendo</td><td>2023-02-05</td></tr>
 
