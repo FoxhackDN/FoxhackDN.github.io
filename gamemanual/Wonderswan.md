@@ -78,7 +78,7 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%8F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%84" target="_blank">Harobots</a></td><td>『ハロボッツ』</td><td>1999</td><td>Sunrise Interactive</td><td>2024-08-03</td></tr>
 
-<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88" target="_blank">Mingle Magnet</a></td><td>『ミングルマグネット』 1999Hal Corporation2025-08-23</td></tr>
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88" target="_blank">Mingle Magnet</a></td><td>『ミングルマグネット』</td><td>1999</td><td>Hal Corporation</td><td>2025-08-23</td></tr>
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3_%E9%AD%94%E8%A1%93%E5%B8%AB%E3%81%AE%E6%8C%91%E6%88%A6%E7%8A%B6%EF%BC%81" target="_blank">Meitantei Conan: Majutsushi No Chousenjou</a></td><td>『名探偵コナン 魔術師の挑戦状！』</td><td>1999</td><td>Bandai</td><td>2025-07-27</td></tr>
 
