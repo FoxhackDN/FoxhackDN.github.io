@@ -11,8 +11,6 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3_for%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3" target="_blank">Chocobo No Fushigi na Dungeon for Wonderswan</a></td><td>『チョコボの不思議なダンジョン forワンダースワン』</td><td>1999</td><td>Bandai</td><td>2024-08-19</td></tr>
 
-</table>
-
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%82%BA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89" target="_blank">Anchor Field</a></td><td>『ギャラクティックピンボール』</td><td>1999</td><td>Sammy</td><td>2025-04-02</td></tr>
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%98%E3%83%B4%E3%83%B3_%EF%BD%9Ememory_of_those_days%EF%BD%9E" target="_blank">Another Heaven ~memory of those days~</a></td><td>『海釣りに行こう！』</td><td>1999</td><td>Omega Micott</td><td>2025-01-03</td></tr>
@@ -75,6 +73,8 @@
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E9%89%84%E4%BA%BA28%E5%8F%B7" target="_blank">Tetsujin 28-Go</a></td><td>『鉄人28号』</td><td>1999</td><td>Megahouse</td><td>2024-08-23</td></tr>
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E6%B5%B7%E9%87%A3%E3%82%8A%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%EF%BC%81" target="_blank">Umitsuri ni ikou!</a></td><td>『海釣りに行こう！』</td><td>2000</td><td>Coconuts Japan</td><td>2025-01-03</td></tr>
+
+</table>
 
 A = 5, KA = 9, SA = 6, TA = 9, Na = 2
 
