@@ -36,11 +36,11 @@
 </table>
 
 
-<a name="jack">1</a>Released in the US as Jack Bros.  
-<a name="golf">2</a>Released in the US as Golf.  
-<a name="panic">3</a>Released in the US as Panic Bomber.  
-<a name="wario">4</a>Released in the US as Virtual Boy Wario Land.  
-<a name="base">5</a>Released in the US as Virtual League Baseball.  
+<a name="jack">1</a> - Released in the US as Jack Bros.  
+<a name="golf">2</a> - Released in the US as Golf.  
+<a name="panic">3</a> - Released in the US as Panic Bomber.  
+<a name="wario">4</a> - Released in the US as Virtual Boy Wario Land.  
+<a name="base">5</a> - Released in the US as Virtual League Baseball.  
 
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
 
