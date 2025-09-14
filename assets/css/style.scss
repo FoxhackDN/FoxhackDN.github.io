@@ -3,8 +3,14 @@
 
 @import "{{ site.theme }}";
 
+/* Wrapper (main container, original size was 960px) */
+.wrapper {
+  width:1160px;
+}
+
+/* Main page container, original size was 650px) */
 section {
-  width:1000px;
+  width:850px;
   float:right;
   padding-bottom:50px;
 }
