@@ -32,4 +32,5 @@
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0" target="_blank">Virtual Fishing</a></td><td>『バーチャルフィッシング』</td><td>1995</td><td>Pack-In Video</td><td>2023-03-21</td></tr>
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E2%80%9995" target="_blank">Virtual Pro Yakyuu</a> (<a href="#base">5</a>)</td><td>『ジャック・ブラザースの迷路でヒーホー！』</td><td>1995</td><td>Kemco</td><td>2024-04-05</td></tr>
+
 </table>
