@@ -21,7 +21,7 @@
 <a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_Ver.WonderSwan" target="_blank">Digital Monster Ver.Wonderswan</a>『デジタルモンスター Ver.WonderSwan』(1999, Bandai)  
 [2025-01-01]
 
-<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC target="_blank">Dokodemo Hamster</a> 『どこでもハムスター』(2000, Interbec / Bec Co. Ltd)  
+<a href="https://gamemanual.midnightmeattrain.com/entry/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC" target="_blank">Dokodemo Hamster</a> 『どこでもハムスター』(2000, Interbec / Bec Co. Ltd)  
 [2025-09-01]
 
 <a href="https://gamemanual.midnightmeattrain.com/entry/Engacho%EF%BC%81_for_%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3">Engacho! for Wonderswan</a>『Engacho！ for ワンダースワン』 (1999, Nihon Application)  
