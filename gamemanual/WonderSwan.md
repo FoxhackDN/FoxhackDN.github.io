@@ -103,8 +103,6 @@
 (<a name="yofumakai">1</a>): Typically listed as "Chou Denki Card Battle "Yōfu Makai" Kikuchi Hideyuki" or "KAPPA GAMES 超伝奇カードバトル「妖符魔界」菊地秀行" in some websites.  
 (<a name="ringu">2</a>): Sometimes called "Ringu: Infinity."
 
-A = 5, KA = 9, SA = 6, TA = 9, Na = 2, Ha = 5, Ma = 5, Ya = 1, Ra = 3
-
 All of these manuals have been scanned and are hosted by Jackall Sasaki at his Hatena Blog. This page only contains links to his scans, translates the game names to English, and add other metadata so people can find them more easily. All credit goes to Sasaki, I'm just a dork with too much time on his hands.
 
 <a href="https://www.kryogenix.org/code/browser/sorttable/" target="_blank">sorttable</a> (Javascript table sorting code) by Stuart Langridge.
