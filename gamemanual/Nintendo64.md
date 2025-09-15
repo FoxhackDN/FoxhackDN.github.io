@@ -10,12 +10,17 @@
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B92_%EF%BD%9E%E7%8E%8B%E9%81%93%E7%B6%99%E6%89%BF%EF%BD%9E" target="_blank">Virtual Pro Wrestling 2: Ōdō Keishō</a></td><td>『バーチャル・プロレス2 ～王道継承～』</td><td>2000</td><td>Asmik</td><td>2025-02-07</td></tr>
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/AI%E5%B0%86%E6%A3%8B3" target="_blank">AI Shogi 3</a></td><td>『AI将棋3』</td><td>1998</td><td>Ascii Something Good</td><td>2025-01-13</td></tr>
 
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/NBA_%E3%82%A4%E3%83%B3_%E3%82%B6_%E3%82%BE%E3%83%BC%E3%83%B32" target="_blank">NBA In The Zone 2</a></td><td>『NBA イン ザ ゾーン2』</td><td>1999</td><td>Konami</td><td>2025-01-07</td></tr>
+
+
+<tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E6%96%B0%E6%97%A5%E6%9C%AC%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9_%E9%97%98%E9%AD%82%E7%82%8E%E5%B0%8E2_the_next_generation" target="_blank">Shin Nippon Pro Wrestling: Tōkon Road 2 — The Next Generation</a> (<a href="#tokon2">3</a>)</td><td>『新日本プロレス 闘魂炎導2 the next generation』</td><td>1998</td><td>Hudson</td><td>2024-12-30</td></tr>
+
 </table>
 
 
 <a name="parlor">1</a> - Full title is Parlor! Pro 64: Pachinko Jikki Simulation (Parlor! PRO64 パチンコ実機シミュレーション).  
 <a name="itoibass">2</a> - Also listed as Itoi Shigesato no Bass Tsuri No. 1 Ketteihan / 糸井重里のバス釣りNo.1 決定版！ in Nintendo's official site.  
-<a name="panic">3</a> - Released in the US as Panic Bomber.  
+<a name="tokon2">3</a> - Also known as New Japan Pro Wrestling Toukon Road 2.  
 <a name="wario">4</a> - Released in the US as Virtual Boy Wario Land.  
 <a name="base">5</a> - Released in the US as Virtual League Baseball.  
 
