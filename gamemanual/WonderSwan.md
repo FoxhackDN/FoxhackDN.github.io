@@ -1,6 +1,6 @@
 <script src="sorttable.js"></script>
 
-# Wonderswan manuals
+# WonderSwan manuals
 
 <table class="sortable">
 <tr><td>Game</td><td>Japanese Spelling</td><td>Year</td><td>Publisher</td><td>Date Posted</td></tr>
