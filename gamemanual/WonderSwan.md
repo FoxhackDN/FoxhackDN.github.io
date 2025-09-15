@@ -96,8 +96,6 @@
 
 <tr><td><a href="https://gamemanual.midnightmeattrain.com/entry/%E3%83%AA%E3%83%B3%E3%82%B0%E2%88%9E" target="_blank">Ring Infinity</a> (<a href="#ringu">2</a>)</td><td>『リング∞（インフィニティ）』</td><td>2000</td><td>Kadokawa Shoten</td><td>2024-08-09</td></tr>
 
-<tr><td><a href="" target="_blank">Title</a></td><td>『JP』</td><td>Year</td><td>Pub</td><td>Date</td></tr>
-
 </table>
 
 (<a name="yofumakai">1</a>): Typically listed as "Chou Denki Card Battle "Yōfu Makai" Kikuchi Hideyuki" or "KAPPA GAMES 超伝奇カードバトル「妖符魔界」菊地秀行" in some websites.  
