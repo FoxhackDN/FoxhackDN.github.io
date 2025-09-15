@@ -4,6 +4,8 @@
 
 <table class="sortable">
 <tr><td>Game</td><td>Japanese Spelling</td><td>Year</td><td>Publisher</td><td>Date Posted</td></tr>
+<tr><td><a href="" target="_blank">x</a></td><td>『x』</td><td>x</td><td>x</td><td>x</td></tr>
+
 </table>
 
 
