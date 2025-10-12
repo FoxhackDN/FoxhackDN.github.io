@@ -71,6 +71,12 @@ Also known as ファミコンソフト集001: ファミコン大作戦.
 </tr>
 </table>
 
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/cosmo-gunship/" target="_blank">Cosmo Gunship</a></td><td>JP</td><td>198?</td><td>Dude</td><td>2025-09-14</td></tr>
+<tr><td colspan="5">Notes: Buncha notes go here.</td>
+</tr>
+</table>
 
 # Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}
 
@@ -120,6 +126,14 @@ Also known as 任天堂 ファミリーコンピュータ ファミリーベー�
 </table>
 
 # Program Pochette {#pochette}
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/block-hit-katsuhisa-tagaki/" target="_blank">Block Hit</a></td><td>JP</td><td>198?</td><td>Katsuhisa Tagaki</td><td>2025-09-11</td></tr>
+<tr><td colspan="5">Notes: Posted on Program Pochette #11.</td>
+</tr>
+</table>
+
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
 <tr><td><a href="https://www.gamingalexandria.com/wp/2025/10/sphere/" target="_blank">Sphere</a></td><td>すふぃあ</td><td>1987</td><td>Programmer Takeshi</td><td>2025-10-05</td></tr>
