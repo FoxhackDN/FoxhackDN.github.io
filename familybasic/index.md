@@ -1,13 +1,16 @@
 <script src="sorttable.js"></script>
 
-[Famicom Software Collection 001 Famicom Strategy / ファミコンソフト集001: ファミコン大作戦](#famisc01)
+[Famicom Software Collection 001 Famicom Strategy](#famisc01)<br>
 [Family Basic v2 Manual](#basicv2)<br>
-[Nintendo Family Computer and Family Basic Perfect Book / 任天堂 ファミリーコンピュータ ファミリーベーシック PERFECT BOOK](#fbperfect)<br>
+[Nintendo Family Computer and Family Basic Perfect Book](#fbperfect)<br>
 [Program Pochette](#pochette)<br>
-[Shogakukan Introductory Encyclopedia Series 191: You can make it too!! Family Computer Games / 小学館入門百科シリーズ 191: きみにも作れる!! フアミリーコンピュータゲーム](#sho191)
+[Shogakukan Introductory Encyclopedia Series 191: You can make it too!! Family Computer Games](#sho191)
 
 
 # Famicom Software Collection 001 Famicom Strategy] {#famisc01}
+
+Also known as ファミコンソフト集001: ファミコン大作戦.
+
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
 <tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/flyfly/" target="_blank">Fly Fly</a></td><td>/</td><td>198?</td><td>Dude</td><td>2025-09-27</td></tr>
@@ -33,6 +36,8 @@
 </table>
 
 # Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}
+
+Also known as 任天堂 ファミリーコンピュータ ファミリーベーシック PERFECT BOOK.
 
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
@@ -64,6 +69,9 @@
 </table>
 
 # Shogakukan Introductory Encyclopedia Series 191 {#sho191}
+
+Also known as 小学館入門百科シリーズ 191: きみにも作れる!! フアミリーコンピュータゲーム.
+
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
 <tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/jump-game/" target="_blank">Jump Game</a></td><td>ジャンぺンゲ一ム</td><td>198?</td><td>Dude</td><td>2025-09-27</td></tr>
