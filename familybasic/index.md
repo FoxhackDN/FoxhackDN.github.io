@@ -4,6 +4,7 @@
 [Famicom Daisakusen Family Basic Step](#basicstep)<br>
 [Famicom Software Collection 001 Famicom Strategy](#famisc01)<br>
 [Family Basic v2 Manual](#basicv2)<br>
+[Family Computer Game Strategy Secret Techniques](#fcsecrettech)<br>
 [Nintendo Family Computer and Family Basic Perfect Book](#fbperfect)<br>
 [Program Pochette](#pochette)<br>
 [Shogakukan Introductory Encyclopedia Series 191: You can make it too!! Family Computer Games](#sho191)
@@ -61,9 +62,26 @@ Also known as ファミコンソフト集001: ファミコン大作戦.
 </tr>
 </table>
 
+# Family Computer Game Strategy Secret Techniques] {#fcsecrettech}
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/dungeon-and-mario/" target="_blank">Dungeon &amp; Mario</a></td><td>ダンジョン＆マリオ</td><td>198?</td><td>Dude</td><td>2025-09-14</td></tr>
+<tr><td colspan="5">Notes: Buncha notes go here.</td>
+</tr>
+</table>
+
+
 # Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}
 
 Also known as 任天堂 ファミリーコンピュータ ファミリーベーシック PERFECT BOOK.
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/defend-base/" target="_blank">Defend Base</a></td><td>ディフェンド べース</td><td>198?</td><td>Dude</td><td>2025-09-14</td></tr>
+<tr><td colspan="5">Notes: Buncha notes go here.</td>
+</tr>
+</table>
 
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
@@ -112,6 +130,13 @@ Also known as 任天堂 ファミリーコンピュータ ファミリーベー�
 # Shogakukan Introductory Encyclopedia Series 191 {#sho191}
 
 Also known as 小学館入門百科シリーズ 191: きみにも作れる!! フアミリーコンピュータゲーム.
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/09/famicon-background-image-no-code/" target="_blank">Famicom Background Image</a></td><td>JP</td><td>198?</td><td>Dude</td><td>2025-09-14</td></tr>
+<tr><td colspan="5">Notes: Buncha notes go here.</td>
+</tr>
+</table>
 
 
 <table>
