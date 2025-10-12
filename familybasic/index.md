@@ -1,7 +1,7 @@
 <script src="sorttable.js"></script>
 
 [Family Basic v2 Manual](#basicv2)<br>
-[Nintendo Family Computer and Family Basic Perfect Book](#fbperfect)
+[Nintendo Family Computer and Family Basic Perfect Book / 任天堂 ファミリーコンピュータ ファミリーベーシック PERFECT BOOK](#fbperfect)
 [Program Pochette](#pochette)
 
 
@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-# Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}<br>任天堂 ファミリーコンピュータ ファミリーベーシック PERFECT BOOK
+# Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}
 
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
