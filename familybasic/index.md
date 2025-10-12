@@ -1,6 +1,7 @@
 <script src="sorttable.js"></script>
 
-[Family Basic v2 Manual](#basicv2)
+[Family Basic v2 Manual](#basicv2)<br>
+[Nintendo Family Computer and Family Basic Perfect Book](#fbperfect)
 [Program Pochette](#pochette)
 
 
@@ -19,6 +20,23 @@
 <tr><td colspan="5">Notes: Music program.</td>
 </tr>
 </table>
+
+# Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}<br>任天堂 ファミリーコンピュータ ファミリーベーシック PERFECT BOOK
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/10/maze-game/" target="_blank">Maze Game</a></td><td>迷路ゲーム</td><td>198?</td><td>Dude</td><td>2025-10-05</td></tr>
+<tr><td colspan="5">Notes: Buncha notes go here.</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/10/moritas-mario/" target="_blank">Morita-san no Mario-kun</a></td><td>JP</td><td>198?</td><td>Dude</td><td>2025-10-05</td></tr>
+<tr><td colspan="5">Notes: Buncha notes go here.</td>
+</tr>
+</table>
+
 
 
 # Program Pochette {#pochette}
