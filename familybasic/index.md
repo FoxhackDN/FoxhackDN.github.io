@@ -6,7 +6,7 @@
 <tr><td>Game</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
 
 <tr><td><a href="https://www.gamingalexandria.com/wp/2025/10/sphere/" target="_blank">Sphere</a></td><td>すふぃあ</td><td>1985</td><td>Programmer Takeshi</td><td>2023-02-02</td></tr>
-<tr colspan=5"><td>Notes</td></tr>
+<tr><td colspan="5">Notes</td>
 
 </table>
 <table class="sortable">
