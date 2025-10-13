@@ -5,6 +5,8 @@
 [Famicom Software Collection 001 Famicom Strategy](#famisc01)<br>
 [Family Basic v2 Manual](#basicv2)<br>
 [Family Computer Game Strategy Secret Techniques](#fcsecrettech)<br>
+[Famimaga / Family Computer Magazine](#famimaga)<br>
+[Micom Basic](#micombasic)<br>
 [Nintendo Family Computer and Family Basic Perfect Book](#fbperfect)<br>
 [Program Pochette](#pochette)<br>
 [Shogakukan Introductory Encyclopedia Series 191: You can make it too!! Family Computer Games](#sho191)
@@ -22,7 +24,7 @@ Also known as ファミコン大作戦 ファミリーベーシック ホップ.
 </table>
 
 
-# Famicom Daisakusen Family Basic Step] {#basicstep}
+# Famicom Daisakusen Family Basic Step {#basicstep}
 
 Also known as ファミコン大作戦 ファミリーベーシック ステップ. Book 2 in a series.
 
@@ -34,7 +36,7 @@ Also known as ファミコン大作戦 ファミリーベーシック ステッ�
 </table>
 
 
-# Famicom Software Collection 001 Famicom Strategy] {#famisc01}
+# Famicom Software Collection 001 Famicom Strategy {#famisc01}
 
 Also known as ファミコンソフト集001: ファミコン大作戦.
 
@@ -62,7 +64,7 @@ Also known as ファミコンソフト集001: ファミコン大作戦.
 </tr>
 </table>
 
-# Family Computer Game Strategy Secret Techniques] {#fcsecrettech}
+# Family Computer Game Strategy Secret Techniques {#fcsecrettech}
 
 <table>
 <tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
@@ -77,6 +79,87 @@ Also known as ファミコンソフト集001: ファミコン大作戦.
 <tr><td colspan="5">Notes: Buncha notes go here.</td>
 </tr>
 </table>
+
+# Famimaga / Family Computer Magazine {#famimaga}
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/crisis-zone-takahashi-tsukasa/" target="_blank">Crisis Zone</a></td><td>JP</td><td>198?</td><td>Takahashi Tsukasa</td><td>2024-11-16</td></tr>
+<tr><td colspan="5">Notes: Originally printed on Famimaga Issue 3 [October 1985].</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/gestar-korochin/" target="_blank">Gestar</a></td><td>ゲスター</td><td>1986</td><td>Korochin</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed on Famimaga [March 1986].</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/death-zone-arts-team/" target="_blank">Death Zone</a></td><td>デス ゾーン</td><td>1986</td><td>Dude</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed on Famimaga [March 1986].</td>
+</tr>
+</table>
+
+
+
+# Micom Basic {#micombasic}
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/marble-madness-hyo/" target="_blank">Marble Madness</a></td><td>JP</td><td>1985</td><td>Hyo!</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed in Micom Basic (マイコンBASIC) November 1985.</td>
+</tr>
+</table>
+
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2025/07/heading-volley-2-motohiko-miyazaki/" target="_blank">Heading Volley 2</a></td><td>JP</td><td>198?</td><td>Motohiko Miyazaki</td><td>2025-07-22</td></tr>
+<tr><td colspan="5">Notes: Originally printed in Micom Basic (マイコンBASIC) January 1986.</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/cross-kazunori/" target="_blank">Cross</a></td><td>JP</td><td>1987</td><td>Kazunori</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed in Micom Basic (マイコンBASIC) January 1987.</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/well-of-alka-takanori-ishii/" target="_blank">Well of Alka</a></td><td>アルカの井戸</td><td>1987</td><td>Takanori Ishii</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed in Micom Basic (マイコンBASIC) January 1987.</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/pen-pen-goemon/" target="_blank">Pen Pen</a></td><td>JP</td><td>1987</td><td>Goemon</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed in Micom Basic (マイコンBASIC) January 1987.</td>
+</tr>
+</table>
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/penguin-fight-mr-x/" target="_blank">Penguin Fight</a></td><td>JP</td><td>1988</td><td>Mr.X</td><td>2024-11-02</td></tr>
+<tr><td colspan="5">Notes: Originally printed in Micom Basic (マイコンBASIC) January 1988.</td>
+
+</tr>
+</table>
+
+
+<table>
+<tr><td>Program</td><td>Japanese Spelling</td><td>Year</td><td>Author</td><td>Date Posted</td></tr>
+<tr><td><a href="https://www.gamingalexandria.com/wp/2024/11/act-fever-rapas/" target="_blank">Act Fever</a></td><td>JP</td><td>1993</td><td>Rapas</td><td>2024-11-16</td></tr>
+<tr><td colspan="5">Notes: Originally printed on micomBASIC (マイコンBASIC) February 1993.</td>
+</tr>
+</table>
+
+
 
 # Nintendo Family Computer and Family Basic Perfect Book {#fbperfect}
 
